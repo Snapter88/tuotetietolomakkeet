@@ -1,6 +1,6 @@
 {
     "version": "1.0.0-beta.2",
-    "min_required_version": "1.0.0-beta1",
+    "min_required_version": "1.0.0-beta.1",
     "description": "A simple project to demonstrate versioning.",
     "author": "John Doe"
 }
