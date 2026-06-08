@@ -1,2 +1,2 @@
-# tuotetietolomakkeet
+# Tuotetietolomakkeet
 Työkalu tuotetietolomakkeiden täyttöön.
